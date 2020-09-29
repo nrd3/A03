@@ -16,7 +16,7 @@ Defintion
 <b>Github</b>:is a code hosting platform for version control and collaboration.
 <b>Merge</b>:way of putting a forked history back together again.It takes the independent lines of development created by git branch and integrate them into a single branch.
 <b>Merge Conflict</b>: is an event that occurs when Git is unable to automatically resolve differences in code between two commits.
-<b>Push<b/>: The git push command is used to upload local repository content to a remote repository. Pushing is how you transfer commits from your local repository to a remote repo.
+<b>Push</b>: The git push command is used to upload local repository content to a remote repository. Pushing is how you transfer commits from your local repository to a remote repo.
 <b>Pull</b>: Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch.
 <b>Remote</b>: A remote in Git is a common repository that all team members use to exchange their changes.
 <b>Repository</b>: A directory or storage space where your projects can live.
