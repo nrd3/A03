@@ -8,17 +8,19 @@ webstorm is used to transfer the files from git to github.Connect your webstorm 
 To download the files onto Github, press on "push" and it will push the files onto github 
 
 Defintion
-Branch: a unique set of code changes with a unique name
-Clone: to download a copy of the source code from source control
-Commit: saved changes
-Fetch:The git fetch command downloads commits, files, and refs from a remote repository into your local repo. Fetching is what you do when you want to see what everybody else has been working on.
-GIT:is a distributed version-control system for tracking changes in source code during software development
-Github:is a code hosting platform for version control and collaboration
-Merge:way of putting a forked history back together again.It takes the independent lines of development created by git branch and integrate them into a single branch
-Merge Conflict: is an event that occurs when Git is unable to automatically resolve differences in code between two commits
-Push: The git push command is used to upload local repository content to a remote repository. Pushing is how you transfer commits from your local repository to a remote repo
-Pull: Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch.
-Remote: A remote in Git is a common repository that all team members use to exchange their changes
-Repository: A directory or storage space where your projects can live
+<b>Branch<b/>: a unique set of code changes with a unique name
+<b>Clone<b/>: to download a copy of the source code from source control
+<b>Commit<b/>: saved changes
+<b>Fetch<b/>:The git fetch command downloads commits, files, and refs from a remote repository into your local repo. Fetching is what you do when you want to see what everybody else has been working on.
+<b>GIT<b/>:is a distributed version-control system for tracking changes in source code during software development
+<b>Github<b/>:is a code hosting platform for version control and collaboration
+<b>Merge<b/>:way of putting a forked history back together again.It takes the independent lines of development created by git branch and integrate them into a single branch
+<b>Merge Conflict<b/>: is an event that occurs when Git is unable to automatically resolve differences in code between two commits
+<b>Push<b/>: The git push command is used to upload local repository content to a remote repository. Pushing is how you transfer commits from your local repository to a remote repo
+<b>Pull<b/>: Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch.
+<b>Remote<b/>: A remote in Git is a common repository that all team members use to exchange their changes
+<b>Repository<b/>: A directory or storage space where your projects can live
 
+Resources
 https://guides.github.com/activities/hello-world/
+And the powerpoints provided for us on canvas
